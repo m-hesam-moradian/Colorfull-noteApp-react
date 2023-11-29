@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Colorfull-noteApp-react/static/css/main.9e4416ad.css",
+    "main.js": "/Colorfull-noteApp-react/static/js/main.a43feaff.js",
+    "index.html": "/Colorfull-noteApp-react/index.html",
+    "main.9e4416ad.css.map": "/Colorfull-noteApp-react/static/css/main.9e4416ad.css.map",
+    "main.a43feaff.js.map": "/Colorfull-noteApp-react/static/js/main.a43feaff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4416ad.css",
+    "static/js/main.a43feaff.js"
+  ]
+}
