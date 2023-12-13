@@ -1,3 +1,51 @@
+# colorfull note book react todo app
+
+### i develop this mini project with React.JS . in this app you can make your todos costume with color pallets and saving your todos in localStorage in your browser this mean yout todos dose not deleted when you refresh website without need to login check in this  <a href='https://m-hesam-moradian.github.io/Colorfull-noteApp-react/'>Url</a>
+<br><br>
+ # Project UI
+
+online demo of website : <a href='https://m-hesam-moradian.github.io/Colorfull-noteApp-react/'>https://m-hesam-moradian.github.io/Colorfull-noteApp-react/</a>
+<br><br>
+
+ # Developed With:
+
+<p align='center'>
+
+<a href="https://www.linkedin.com/in/m-hesam-moradian/" target="_blank">
+   <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<a href="https://github.com/m-hesam-moradian" target="_blank">
+    <img align="center" alt="Rafa-CSS"  height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</a>
+<a href="http://T.me/m-hesam-moradian" target="_blank">
+     <img align="center" alt="Rafa-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</a>
+<a href="http://T.me/m-hesam-moradian" target="_blank">
+     <img align="center" alt="Rafa-React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+</a>
+
+
+  
+  
+ # Contact Me
+
+
+<br><br>
+
+<p align='center'>
+
+<a href="https://www.linkedin.com/in/m-hesam-moradian/" target="_blank">
+    <img class="icon"  alt="instagram" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png" /></a>
+<a href="https://github.com/m-hesam-moradian" target="_blank">
+    <img class="icon"    alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" />
+</a>
+<a href="http://T.me/m-hesam-moradian" target="_blank">
+    <img class="icon"  alt="telegram"  src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" />
+</a>
+
+
+</p>
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
