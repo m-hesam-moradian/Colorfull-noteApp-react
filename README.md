@@ -2,13 +2,22 @@
 
 ### i develop this mini project with React.JS . in this app you can make your todos costume with color pallets and saving your todos in localStorage in your browser this mean yout todos dose not deleted when you refresh website without need to login check in this  <a href='https://m-hesam-moradian.github.io/Colorfull-noteApp-react/'>Url</a>
 <br><br>
- # Project UI
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Project UI </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
+ <br><br>
    <img align="center" alt="Rafa-HTML"  width="100%" src="https://github.com/m-hesam-moradian/Colorfull-noteApp-react/blob/main/Screenshot%202023-11-29%20163523.png?raw=true">
 
 online demo of website : <a href='https://m-hesam-moradian.github.io/Colorfull-noteApp-react/'>https://m-hesam-moradian.github.io/Colorfull-noteApp-react/</a>
 <br><br>
+<br><br>
+<br><br>
 
- # Developed With:
+ 
+ <div align='center'  width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='150px'  >  Developed With: </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
+ <br><br>
 
 <p align='center'>
 
@@ -25,13 +34,15 @@ online demo of website : <a href='https://m-hesam-moradian.github.io/Colorfull-n
 
 </a>
 
-
+<br><br><br><br>
   
   
- # Contact Me
+ 
+ <div align='center'  width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='150px'  >  Contact Me </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
+ <br><br>
 
-
-<br><br>
 
 <p align='center'>
 
@@ -47,6 +58,9 @@ online demo of website : <a href='https://m-hesam-moradian.github.io/Colorfull-n
 
 </p>
  
+<br><br>
+<br><br>
+<br><br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
